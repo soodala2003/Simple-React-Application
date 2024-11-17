@@ -1,3 +1,6 @@
+# GLAB320H.2.1 - Building a Simple React Application
+https://github.com/soodala2003/Simple-React-Application.git
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
